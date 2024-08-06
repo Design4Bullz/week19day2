@@ -3,6 +3,7 @@
     "Image": {
       "Name": "registry.hub.docker.com/chandradeoarya/dojo-jump:latest"
     },
+
     "Ports": [
       {
         "ContainerPort": 80
